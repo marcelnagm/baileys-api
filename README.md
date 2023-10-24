@@ -20,6 +20,9 @@ An implementation of [@adiwajshing/Baileys](https://github.com/adiwajshing/Baile
 ```sh
 npm install
 ```
+npx prisma generate
+npx prisma migrate dev
+Build the project using the build script. You can skip this part if you're using the prebuilt one from the release page
 
 4. Build the project using the `build` script
 
